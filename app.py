@@ -18,9 +18,9 @@ if "done" not in st.session_state: st.session_state.done = set()
 if "stars" not in st.session_state: st.session_state.stars = 0
 
 FOODS = {
-    "🍚 Rice":"Rocket Fuel","🍗 Chicken":"Power Engine","🥒 Cucumber":"Oxygen Pack",
+    "🍚 Rice":"Rocket Fuel","🍗 Chicken":"Power Core","🥒 Cucumber":"Oxygen Pack",
     "🍌 Banana":"Energy Boost","🥪 Sandwich":"Adventure Pack","🍎 Apple":"Health Shield",
-    "🥕 Carrot":"Super Vision","🥛 Milk":"Magic Potion","🥚 Egg":"Power Core","🫓 Roti":"Strong Fuel"
+    "🥕 Carrot":"Super Vision","🥛 Milk":"Magic Potion","🥚 Egg":"Power Engine","🫓 Roti":"Strong Fuel"
 }
 MISSIONS = [
     ("🚀 Space Mission","Your spaceship needs lunch fuel. Let's power it up!"),
