@@ -1,0 +1,41 @@
+LUNCHBOX BUDDY – CREATIVE AI TOOL
+
+Tagline: Eat • Play • Explore!
+
+PROBLEM
+Some children find lunchtime boring or lose interest in their food.
+
+SOLUTION
+Lunchbox Buddy turns lunch into a friendly, playful experience. The child enters their name and lunchbox foods, then receives a themed mission.
+
+AI / CREATIVE ELEMENT
+A generative AI Lunchbox Buddy can create a different story, mission and encouragement for each child and each lunchbox.
+
+TARGET USERS
+Children and parents.
+
+CORE FEATURES
+• Child name
+• Food selection
+• Personalized mission
+• Food-by-food progress
+• Stars and badges
+• Celebration screen
+• Parent view
+
+FUTURE FEATURES
+• Real generative AI
+• Animated buddy character
+• Voice interaction
+• Personalized stories
+• Parent progress dashboard
+• Multiple child profiles
+
+DESIGN PRINCIPLE
+The app should encourage positive food exploration and avoid shame or punishment around eating.
+
+TECHNOLOGY
+Python + Streamlit prototype; generative AI API can be added for dynamic content.
+
+ONE-LINE PITCH
+“Lunchbox Buddy turns lunchtime into an adventure with a friendly AI companion.”
